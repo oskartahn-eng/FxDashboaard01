@@ -1,0 +1,7 @@
+date,pair,spot,rr25_1m,rr25_3m,rr25_6m,rr25_1y,source
+2026-08-28,EURUSD,1.1643,-0.03,-0.04,-0.03,-0.13,Saxo FX Options Analytics
+2026-08-28,USDJPY,159.60,-1.74,-1.46,-0.88,-0.20,Saxo FX Options Analytics
+2026-08-28,GBPUSD,1.3583,-0.25,-0.49,-0.70,-1.02,Saxo FX Options Analytics
+2026-08-28,AUDUSD,0.7196,-0.35,-0.55,-0.70,-0.91,Saxo FX Options Analytics
+2026-08-28,USDCAD,1.3852,0.07,0.05,0.04,0.03,Saxo FX Options Analytics
+2026-08-28,USDCHF,0.8043,-0.51,-0.57,-0.61,-0.69,Saxo FX Options Analytics

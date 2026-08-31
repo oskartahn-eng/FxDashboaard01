@@ -1,0 +1,10 @@
+pairs:
+  - EURUSD
+  - GBPUSD
+  - USDJPY
+target_horizons: [1, 5, 10, 20]
+zscore_window: 252
+change_windows: [1, 5, 20]
+minimum_training_days: 756
+model:
+  C: 1.0
